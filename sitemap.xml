@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kelvinzhou.github.io/categories/</loc>
+    <loc>https://kelvinzhou.github.io/2022/06/22/first/</loc>
+    <lastmod>2022-06-22T20:25:31+08:00</lastmod>
   </url><url>
     <loc>https://kelvinzhou.github.io/</loc>
+    <lastmod>2022-06-22T20:25:31+08:00</lastmod>
+  </url><url>
+    <loc>https://kelvinzhou.github.io/post/</loc>
+    <lastmod>2022-06-22T20:25:31+08:00</lastmod>
+  </url><url>
+    <loc>https://kelvinzhou.github.io/categories/</loc>
   </url><url>
     <loc>https://kelvinzhou.github.io/tags/</loc>
   </url>
